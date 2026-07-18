@@ -51,6 +51,55 @@
     <link href="https://fonts.googleapis.com/css2?family=Figtree:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
     <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
     <link rel="stylesheet" href="style/main.css">
+
+    <!-- Styles for the new Profile Banner layout -->
+    <style>
+        .hero-profile-container {
+            position: relative;
+            width: 100%;
+            max-width: 450px; /* Adjust based on your preferred design width */
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        .hero-banner {
+            width: 100%;
+            height: 180px; /* Adjust height of the banner here */
+            overflow: hidden;
+            border-radius: 16px; /* Smooth card layout */
+            background: linear-gradient(135deg, #1e1e38 0%, #0a0a16 100%); /* Fallback gradient */
+        }
+
+        .hero-banner img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            opacity: 0.7; /* Adjust opacity to fit text/theme if needed */
+        }
+
+        .hero-avatar-wrapper {
+            width: 140px; /* Size of your profile image */
+            height: 140px;
+            border-radius: 50%;
+            padding: 4px; /* Creates a clean gap effect */
+            background: rgba(255, 255, 255, 0.15); /* Glassmorphic border ring */
+            backdrop-filter: blur(8px);
+            -webkit-backdrop-filter: blur(8px);
+            
+            /* The magic trick: Pulls the profile picture up by exactly 25% (1st quarter) of its height */
+            transform: translateY(-25%); 
+            margin-bottom: -35px; /* Pulls up following elements to offset layout gap */
+        }
+
+        .hero-avatar-wrapper img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            border-radius: 50%;
+            display: block;
+        }
+    </style>
 </head>
 <body>
 
@@ -82,8 +131,16 @@
                     <a href="assets/cv.pdf" download class="btn-outline">Download CV ↓</a>
                 </div>
             </div>
-            <div class="hero-avatar" data-aos="fade-up" data-aos-delay="120">
-                <img src="assets/profile.webp" alt="BossEmmanuel">
+
+            <!-- Profile & Banner Container Wrapper -->
+            <div class="hero-profile-container" data-aos="fade-up" data-aos-delay="120">
+                <div class="hero-banner">
+                    <!-- Replace with your actual banner image path -->
+                    <img src="assets/banner.webp" alt="BossEmmanuel Tech Banner" onerror="this.style.display='none'">
+                </div>
+                <div class="hero-avatar-wrapper">
+                    <img src="assets/profile.webp" alt="BossEmmanuel">
+                </div>
             </div>
         </section>
 
