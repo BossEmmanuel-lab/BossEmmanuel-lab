@@ -1,30 +1,24 @@
-# 💫 About Me:
-Hi there! My name is Emmanuel, I am a full stack web, mobile and blockchain developer. I build agile software applications, using modern technologies and best practices to enhance code quality, while ensuring optimum functionality.  
+### Hey, I'm Emmanuel 👋
 
+Full-stack & Web3 dev. I build fast, clean web apps, mobile products, and smart contracts that just work.
 
-# 💻 Technologies I work with:
-### Primary Languages
-   ![Python Badge](https://img.shields.io/badge/python-%23008080.svg?style=for-the-badge&logo=python&logoColor=%23FFFFFF)
-   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-   ![Rust](https://img.shields.io/badge/rust-%23E34F26.svg?style=for-the-badge&logo=rust&logoColor=white)  
+---
 
-### Web
-   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+### Core Stack
 
-### Mobile
-   ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-   ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+**Languages**  
+![Python](https://img.shields.io/badge/Python-121212?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-121212?style=flat-square&logo=javascript&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-121212?style=flat-square&logo=rust&logoColor=white)
 
-### Back-End 
-   ![Python Badge](https://img.shields.io/badge/python-%23008080.svg?style=for-the-badge&logo=python&logoColor=%23FFFFFF)
-   ![Django Badge](https://img.shields.io/badge/django-%2304AA51.svg?style=for-the-badge&logo=django&logoColor=%23FFFFFF)
+**Web & Mobile**  
+![React](https://img.shields.io/badge/React-121212?style=flat-square&logo=react&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-121212?style=flat-square&logo=flutter&logoColor=white)
 
-### Blockchain
-   ![Ethereum](https://img.shields.io/badge/ethereum-%23313131.svg?style=for-the-badge&logo=ethereum&logoColor=white)
-   ![Solidity](https://img.shields.io/badge/solidity-white.svg?style=for-the-badge&logo=solidity&logoColor=%23B51717)
-   ![Rust](https://img.shields.io/badge/rust-%23E34F26.svg?style=for-the-badge&logo=rust&logoColor=white)  
-   ![Solana](https://img.shields.io/badge/solana-%23000000.svg?style=for-the-badge&logo=solana&logoColor=#8A2BE2)
-   ![web3.py](https://img.shields.io/badge/web3.py-%2312100E.svg?style=for-the-badge&logo=ethereum&logoColor=white)
+**Backend**  
+![Django](https://img.shields.io/badge/Django-121212?style=flat-square&logo=django&logoColor=white)
+
+**Web3**  
+![Solidity](https://img.shields.io/badge/Solidity-121212?style=flat-square&logo=solidity&logoColor=white)
+![Soroban](https://img.shields.io/badge/Soroban-121212?style=flat-square&logo=stellar&logoColor=white)
+![Anchor](https://img.shields.io/badge/Anchor-121212?style=flat-square)
