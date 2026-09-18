@@ -5,7 +5,7 @@ I want to build things that actually matter.
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-E34F26?style=for-the-badge&logo=rust&logoColor=white)
 
 ### Web & Mobile
