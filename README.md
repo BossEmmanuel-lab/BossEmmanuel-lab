@@ -1,11 +1,15 @@
-# Boss Emmanuel 👋
+# Emmanuel 👋
 **Full-Stack & Web3 Developer**
 
 I want to build things that actually matter.
 
+---
+
+## Stack
+
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/JavaScript-A87B00?style=for-the-badge&logo=javascript&logoColor=ffffff)
 ![Rust](https://img.shields.io/badge/Rust-E34F26?style=for-the-badge&logo=rust&logoColor=white)
 
 ### Web & Mobile
